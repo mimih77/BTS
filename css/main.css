@@ -492,8 +492,8 @@ p{    transform: translateX(180px);
    
     
 }
-p{    transform: translateX(290px);
-    
+p{    
+    transform: translateX(290px);
     margin:  0;
     padding: 0;
 

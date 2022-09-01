@@ -396,7 +396,7 @@ nav{
 .aside-bts{
    margin-left: 8px;
   
-   transform: translateY(950px);
+   transform: translateY(250px);
    
 }
 .box-list-bts {
@@ -639,8 +639,8 @@ nav{
 .nav-ul  a{
    text-decoration: none;
   
-   color: #f2c9fc;
-   font-size: 1.55em;
+   color:#f2c9fc;
+   font-size: 1.15em;
    font-family: 'asap';
  
 
@@ -679,6 +679,29 @@ nav{
  font-size:15px;
 }
 
+.links li, .link-btn{
+
+   display: flex;
+ 
+   list-style: none;
+   margin: 2px;
+   border: 3px solid lightgrey;
+padding: 0.3em;
+border-radius:0.5rem;
+box-shadow: 3px 4px 4px #888888;
+background-color: white;
+color: black;
+position: relative;
+bottom:2350px;
+right:400px;
+
+}
+ .link-btn a{
+   text-decoration: none;
+   padding: 2px;
+   font-size: 1em;
+   justify-content: space-evenly;
+}
 
 #second-title{
    font-size: 2.6em;
@@ -689,19 +712,19 @@ nav{
 
 .wrap-bts{
   padding: 0px;
-   transform: translateY(-820px);
+   transform: translateY(-720px);
   
    
 }
 .wrap{
-  transform: translateY(-650px);
+  transform: translateY(-1090px);
   
 }
 
 .aside-bts{
    margin-left: 8px;
   
-   transform: translateY(930px);
+   transform: translateY(1090px);
    
 }
 .box-list-bts {
@@ -1044,13 +1067,13 @@ color: black;
     
  }
 .wrap{
-   transform: translateY(-650px);
+   transform: translateY(-1090px);
 }
 
  .aside-bts{
    margin-left: 8px;
   
-    transform: translateY(950px);
+    transform: translateY(850px);
     
  }
  .box-list-bts {
