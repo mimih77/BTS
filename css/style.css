@@ -640,7 +640,7 @@ nav{
    text-decoration: none;
   
    color:#f2c9fc;
-   font-size: 1.15em;
+   font-size: 0.75em;
    font-family: 'asap';
  
 
@@ -691,9 +691,8 @@ border-radius:0.5rem;
 box-shadow: 3px 4px 4px #888888;
 background-color: white;
 color: black;
-position: relative;
-bottom:2350px;
-right:400px;
+transform: translate(-300px,-2800px);
+
 
 }
  .link-btn a{
@@ -712,7 +711,8 @@ right:400px;
 
 .wrap-bts{
   padding: 0px;
-   transform: translateY(-720px);
+   transform: translateY(-880px);
+   
   
    
 }
@@ -724,7 +724,7 @@ right:400px;
 .aside-bts{
    margin-left: 8px;
   
-   transform: translateY(1090px);
+   transform: translateY(980px);
    
 }
 .box-list-bts {
